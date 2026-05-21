@@ -12,8 +12,6 @@ En esa carptera aparecerán todos los archivos GSDML que están disponibles para
 
 Para acabar copia la ruta de esa carpeta pues la necesitarás para añadir esos archivos a TIA Portal
 
----
-
 ## Añadir archivos GSDML a TIA Portal
 
 El proceso comienza con la gestión de archivos de descripción de dispositivos dentro de TIA Portal en:
@@ -21,8 +19,6 @@ El proceso comienza con la gestión de archivos de descripción de dispositivos 
 **OPCIONES → ADMINISTRAR ARCHIVOS DE DESCRIPCIÓN DE DISPOSITIVOS**
 
 Desde esta ventana se selecciona la ruta donde se encuentran los archivos GSDML del fabricante y se instalan en el entorno. Una vez finalizada la instalación correctamente, el dispositivo pasa a estar disponible en el catálogo de hardware.
-
----
 
 ## Añadir KUKA a la vista de red
 

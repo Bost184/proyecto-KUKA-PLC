@@ -1,4 +1,12 @@
 # Configuración de TIA Portal
+
+Antes de comenzar a trabajar con TIA Portal es recomendable tener una pequeña base de conocimientos sobre como funciona el programa. Para ello adjuntamos algunos enlaces a videos que pueden ser utiles para empezar en el programa. 
+
+Inicio en TIA Portal: Crear proyecto, agregar dispositivo, configurar IP del dispositivo (recomendado hasta minuto 40 como mínimo)
+https://www.youtube.com/watch?v=XtN24GJyn4M 
+
+
+
 ## Adquisición de archivos GSDML
 
 Para localizar los archivos GSDML debemos acceder a la siguiente carpeta dentro del equipo que tenga el workvisual

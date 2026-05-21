@@ -5,7 +5,9 @@ Antes de comenzar a trabajar con TIA Portal es recomendable tener una pequeña b
 Inicio en TIA Portal: Crear proyecto, agregar dispositivo, configurar IP del dispositivo (recomendado hasta minuto 40 como mínimo)
 https://www.youtube.com/watch?v=XtN24GJyn4M 
 
+Comunicación Profinet en TIA Portal: https://www.youtube.com/watch?v=6CcCDKXEx1g
 
+Agregar ficheros GSD: https://www.youtube.com/watch?v=LJKUzv3Zykw
 
 ## Adquisición de archivos GSDML
 
